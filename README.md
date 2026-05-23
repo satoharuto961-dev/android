@@ -236,3 +236,5 @@ Automated README update by Pull Shark bot 🦈
 Auto-generated PR content
 
 Bot contribution for Pull Shark
+
+Tiny change for Bronze badge
