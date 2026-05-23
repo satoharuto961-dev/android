@@ -130,3 +130,5 @@ Bot contribution for Pull Shark
 Bot contribution for Pull Shark
 
 Automated README update by Pull Shark bot 🦈
+
+Tiny change for Bronze badge
