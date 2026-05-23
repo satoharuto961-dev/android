@@ -168,3 +168,5 @@ Documentation tweak by bot
 Bot contribution for Pull Shark
 
 Documentation tweak by bot
+
+Tiny change for Bronze badge
