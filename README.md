@@ -188,3 +188,5 @@ Documentation tweak by bot
 Automated README update by Pull Shark bot 🦈
 
 Bot contribution for Pull Shark
+
+Tiny change for Bronze badge
